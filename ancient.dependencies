@@ -1,9 +1,9 @@
 [
   {
     "remote": "github",
-    "repository": "namaskaragusthi/device_xiaomi_beryllium-common",
+    "repository": "namaskaragusthi/device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
-    "branch": "eleven"
+    "branch": "eleven-beryllium"
   },
   {
     "remote": "github",
